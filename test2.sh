@@ -1,3 +1,3 @@
 #/bin/bash
 
-echo "Making the changes"
+echo "THis is a file 2 for git branches"
