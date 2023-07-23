@@ -1,3 +1,3 @@
 #!/bin/bash
 
-This is a edureka course
+echo "This is a edureka course"
