@@ -1,8 +1,8 @@
-// Your First Program
-class Test
-{
-    public static void main(String []args)
+class HelloWorld {
+    // Your program begins with a call to main().
+    // Prints "Hello, World" to the terminal window.
+    public static void main(String args[])
     {
-        System.out.println("My First Java Program.");
+        System.out.println("Hello, World");
     }
-};
+}
